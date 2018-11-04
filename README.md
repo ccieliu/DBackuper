@@ -1,6 +1,6 @@
 ```markdown
-# DBackper
-A MySql batch Bakcuper server.
+# DBackuper
+A MySql batch Bakcuuper server.
 #username:password@hostname,dbusername,dbpassword,dbhostname,dbname,backupurl,localurl
 #username: Remote server SSH username.
 #password: Remote server SSH password.
