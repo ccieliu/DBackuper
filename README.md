@@ -1,4 +1,6 @@
 # Database Remote Backup Script.
+
+### Example configuration usage:
 ```shell
 # DBackuper
 A MySql batch Backuper server.
